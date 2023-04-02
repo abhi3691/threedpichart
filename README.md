@@ -1,4 +1,4 @@
-# threedpichart
+# sharedTransition
 This React Native Sample App using Reanimated For sharedTransition
 
 

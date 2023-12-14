@@ -19,7 +19,7 @@ npm install --save react-native-reanimated
 
 ## Usage
 ```js
-import Animated as React from 'react-native-reanimated';
+import Animated  from 'react-native-reanimated';
 ```
 
 Screen A
